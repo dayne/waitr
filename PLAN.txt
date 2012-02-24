@@ -5,6 +5,7 @@ waitr.server 	: watchs some globs and launchs commands
 	.status	
 
 waitr.runner	: a job
+	:
 
 waitr.web 	: web server that lets you connect to waitr.server(s) and 
 		: do read-only viewing of job status

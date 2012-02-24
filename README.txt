@@ -6,7 +6,9 @@ A waitd/waitp replacement for GINA
 
 
 == INSTALL:
-
+	git clone 
+	add lib dir to ruby path
+	add bin dir to bin path
 
 == SETUP:
 
